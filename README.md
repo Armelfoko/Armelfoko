@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armelfoko
+- 👋 Hi, I’m @Reddark
 - 👀 I’m interested in Network, system administration, virtualization and cybersecurity
 - 🌱 I’m currently learning all about computer sciences
 - 💞️ I’m looking to collaborate on ...
